@@ -37,13 +37,17 @@ For the final deliverable, the following changes were made to the Bootstrap comp
 
 (1) Updated the color of the Jumbotron header by adding gradient color shading and changing the color of the scrape button.
 
-- Tag before challeneg: <div class_"jumbotron text-center"> & <a class="btn btn-primary btn-lg">
+- Tag before challeneg: <div class_"jumbotron text-center"> & \<a class="btn btn-primary btn-lg">
  
-- updated tag <div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center"> & <a class="btn btn-default btn-lg">
+- updated tag \<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center"> & \<a class="btn btn-default btn-lg">\
  
-(2) Modified the orientation of the hemisphere images to a single ribbon by changing the grid from col-md-6 to col-md-3.
+(2) Modified the orientation of the hemisphere images to a single ribbon by changing the grid from "col-md-6" to "col-md-3".
+![Deliverable3_background](https://github.com/Jflux05/Mission-to-Mars/blob/715d0c7d96297559cd4c80b9bc7ead421bba2235/Resources/Images/Deliverable3_background.png)
  
- 
-(3) Updated the background color of the entire webpage by modifying the <body> tag with <body style="background-color:darksalmon; color:black">.
+## Summary
+
+The final webpage that was created can be seen in the screenshot below
+
+![final_view](https://github.com/Jflux05/Mission-to-Mars/blob/715d0c7d96297559cd4c80b9bc7ead421bba2235/Resources/Images/final_view.png)
 
 
